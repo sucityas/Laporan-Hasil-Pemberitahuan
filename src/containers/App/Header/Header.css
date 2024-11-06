@@ -1,0 +1,37 @@
+.notif-header .kt-notification__item_detail:after {
+    content: '' !important;
+}
+.notif-header .unread-notif {
+    font-weight: bold !important;
+}
+.custom-pagination>.ant-pagination-item {
+    color: #93a2dd;
+}
+.custom-pagination>.ant-pagination-item-active {
+    background: #5d78ff;
+    color: #ffffff;
+}
+.custom-pagination>.ant-pagination-prev, .ant-pagination-next {
+    color: #93a2dd !important;
+    background: #f0f3ff;
+    margin: 0 10px 0 10px !important;
+}
+.custom-pagination .anticon {
+    vertical-align: 0.12em !important;
+}
+.notif-header-badge {
+    background: #ff5757;
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    right: 13px;
+}
+
+@media (max-width: 1025px) {
+    .notif-header-badge {
+        top: 5px;
+        right: 8px;
+    }
+}

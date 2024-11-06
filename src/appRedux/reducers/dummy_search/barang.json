@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "message": "Berhasil mengambil data dari sce_barang",
+  "totalCount": 39422,
+  "from": 0,
+  "size": 10,
+  "searchTerm": null,
+  "items": [
+
+  ]
+}

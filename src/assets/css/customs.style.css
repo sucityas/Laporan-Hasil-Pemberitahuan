@@ -1,0 +1,27 @@
+.logo {
+  width: 135px;
+  height: auto;
+}
+
+.logo-mobile {
+  width: 130px;
+  height: auto;
+}
+
+.modal-ujilab .ant-modal-body {
+  background-color: #fafafa !important;
+}
+
+.overideZindexTo_kt_content {
+  z-index: 94;
+}
+
+@media (max-width: 1025px) {
+  .overider_kt_subheader {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 58px;
+  }
+}
+

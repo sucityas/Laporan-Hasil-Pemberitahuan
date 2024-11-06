@@ -1,0 +1,184 @@
+import React, { Suspense, lazy } from "react";
+import { useSelector } from "react-redux";
+import { v4 } from "uuid";
+// import hostMicroFrontend from "./microfrontend.json";
+import { Route } from "react-router-dom";
+import LoadingWrapperSkelton from "components/LoadingWrapperSkeleton";
+// import {isLocalhost} from "./utils/DataUser";
+// const RekamInstruksi = lazy(() => import('./perijinan/uji_laboratorium/Proses/Penyelia/RekamInstruksi'))
+// const PenelitianPenyelia = lazy(() => import('./perijinan/uji_laboratorium/Proses/Penyelia/PenelitianPenyelia'))
+// const Disposisi = lazy(() => import('./perijinan/uji_laboratorium/Proses/Disposisi'))
+// const Rekomendasi = lazy(() => import('./perijinan/uji_laboratorium/Proses/Penyelia/Rekomendasi'))
+// const PindahLaboratorium = lazy(() => import('./perijinan/uji_laboratorium/Proses/pemeriksa/PindahLaboratorium'))
+// const Aproval = lazy(() => import('./perijinan/uji_laboratorium/Proses/pemeriksa/Aproval'))
+const Microfrontend = lazy(() => import("../utils/MicroFrontend"));
+const Dashboard = lazy(() => import("../dashboard/Dashboard"));
+const Barang = lazy(() => import("./barang"));
+const SmartIframe = lazy(() => import("./smartIframe"));
+const Gate = lazy(() => import("./routes/gate"));
+const AppsManager = lazy(() => import("./routes/appsManager"));
+const Eseal = lazy(() => import("./routes/eseal"));
+const Aeo = lazy(() => import("./routes/aeo"));
+const Mita = lazy(() => import("./routes/mita"));
+const Perijinan = lazy(() => import("./routes/perijinan"));
+const Perbaikan = lazy(() => import("./routes/perbaikan"));
+const Pembatalan = lazy(() => import("./routes/pembatalan"));
+const Sce = lazy(() => import("./routes/sce"));
+const Lhp = lazy(() => import("./routes/lhp"));
+const Search = lazy(() => import("./routes/search"));
+const Pfpd = lazy(() => import("./routes/pfpd"));
+const SettingHanggar = lazy(() => import("./routes/settingHanggar"));
+const SuratKuasa = lazy(() => import("./routes/suratKuasa"));
+const VoluntaryDeclaration = lazy(() =>
+  import("./routes/voluntaryDeclaration")
+);
+const Redis = lazy(() => import("./routes/redis"));
+const SettingPenomoran = lazy(() => import("./routes/settingPenomoran"));
+const DaftarDokumen = lazy(() =>
+  import("./singlecore/pencarian/DaftarDokumen")
+);
+const DaftarPersetujuanPFPD = lazy(() =>
+  import("./pfpd/PfpdKeputusan/DaftarKeputusan")
+);
+const UserProfile = lazy(() => import("../pages/user-profile/UserProfile"));
+const Audit = lazy(() => import("./routes/audit"));
+const EMonitoringAudit = lazy(() => import("./routes/e-monitoringAudit"));
+const PencarianDataRegistrasi = lazy(() => import('./routes/pencarianDataRegistrasiNppbkc'))
+const Pemblokiran = lazy(() => import('./routes/pemblokiran'));
+const PenerimaanDokumen = lazy(() => import('./routes/pendok'));
+const PersetujuanIzinForm3d = lazy(() => import('./Form3D/PersetujuanIzinForm3D/persetujuanIzinPembongkaran'));
+const BeritaAcaraPemeriksaanLoksai = lazy(() => import('./tpb/BeritaAcara/index'));
+const TerbitPemeriksaanLokasi = lazy(() => import('./tpb/UnggahBaPemeriksaanLokasi/TerbitPemeriksaanLokasi'));
+const BeritaAcaraKite = lazy(() => import('./Kite/BeritaAcara/index'));
+
+const Pages = (props) => {
+  const refreshToken = useSelector((state) => state.rkc);
+  const { url: mUrl } = props.match
+  const checkPath = () => {
+    const path = window.location.pathname,
+      menu = props.menu || [];
+    // eslint-disable-next-line array-callback-return
+    const canAccessModule = menu.map((data) => {
+      if ((data.url || '').indexOf("*") >= 0) {
+        const splitMenu = data.url.split("*")[0];
+        return (
+          (path.includes(splitMenu) && path.split(splitMenu)[0] === "") ||
+          data.url === path
+        );
+      }
+    });
+    return canAccessModule;
+  };
+
+  if (checkPath())
+    return (
+      <Suspense fallback={<LoadingWrapperSkelton />}>
+        <Route component={Redis} />
+        <Route component={AppsManager} />
+        <Route component={Aeo} />
+        <Route component={Mita} />
+        <Route component={Perijinan} />
+        <Route component={Sce} />
+        <Route component={Pfpd} />
+        <Route component={Lhp} />
+        <Route component={Search} />
+        <Route component={Eseal} />
+        <Route component={Perbaikan} />
+        <Route component={Pembatalan} />
+        <Route component={SettingHanggar} />
+        <Route component={Gate} />
+        <Route component={SuratKuasa} />
+        <Route component={VoluntaryDeclaration} />
+        <Route component={SettingPenomoran} />
+        <Route component={PenerimaanDokumen} />
+        <Route component={PencarianDataRegistrasi} />
+        {/* <Route path={`${mUrl}rekomendasi`} component={Rekomendasi} />
+        <Route path={`${mUrl}rekaminstruksi`} component={RekamInstruksi} />
+        <Route path={`${mUrl}penelitianpenyelia`} component={PenelitianPenyelia} />
+        <Route path={`${mUrl}disposisi`} component={Disposisi} />
+        <Route path={`${mUrl}pindahlaboratorium`} component={PindahLaboratorium} />
+        <Route path={`${mUrl}aproval`} component={Aproval} /> */}
+        <Route path={`${mUrl}barang`} component={Barang} />
+        <Route path={`${mUrl}smartframe`} component={SmartIframe} />
+        <Route exact path={`${mUrl}`} component={Dashboard} />
+        <Route path={`${mUrl}profile`} component={UserProfile} />
+        <Route
+          path={`${mUrl}browse/dokumen-pabean`}
+          render={(props) => <DaftarDokumen {...props} />}
+        />
+        <Route path={`${mUrl}Pemblokiran`} component={Pemblokiran} />
+        <Route
+          path={`${mUrl}browse/keputusan-pfpd`}
+          render={(props) => <DaftarPersetujuanPFPD {...props} />}
+        />
+        <Route component={Audit} />
+        <Route component={EMonitoringAudit} />
+        <Route
+          path={`${mUrl}perijinan/persetujuanIzinForm3d`}
+          component={PersetujuanIzinForm3d}
+        />
+        <Route path={`${mUrl}bapemeriksaanlokasi`} component={BeritaAcaraPemeriksaanLoksai} />
+        <Route path={`${mUrl}terbitPemeriksaanLokasi`} component={TerbitPemeriksaanLokasi} />
+        <Route path={`${mUrl}beritaAcaraKite`} component={BeritaAcaraKite} />
+
+        {/*{isLocalhost && hostMicroFrontend.map(({ path, host, title, modulSlug }, index) => {*/}
+        {/*    const isAvailable = props.menuMicro.find(item => item.host === host)*/}
+        {/*  if (!isAvailable) {*/}
+        {/*    const propsExtra = {*/}
+        {/*      key: props.location.pathname !== path ? index : v4(),*/}
+        {/*      host: host,*/}
+        {/*      name: "MainContent",*/}
+        {/*      modulSlug,*/}
+        {/*      title: title,*/}
+        {/*      pathname: path,*/}
+        {/*      menuname: title,*/}
+        {/*      refreshtoken: refreshToken.kt*/}
+        {/*    }*/}
+        {/*    return (*/}
+        {/*      <Route*/}
+        {/*        path={path}*/}
+        {/*        render={(props) => (*/}
+        {/*          <Microfrontend*/}
+        {/*            {...props}*/}
+        {/*            {...propsExtra}*/}
+        {/*          />*/}
+        {/*        )}*/}
+        {/*      />*/}
+        {/*    )*/}
+        {/*  }*/}
+        {/*}*/}
+        {/*)}*/}
+        {
+          props.menuMicro.map(({ modulSlug, menuName, pathName, name, host }, index) => {
+            const propsExtra = {
+              key: props.location.pathname !== pathName ? index : v4(),
+              host: host,
+              name: name,
+              modulSlug,
+              title: menuName,
+              pathname: pathName,
+              menuname: menuName,
+              refreshtoken: refreshToken.kt
+            }
+            return (
+              <Route
+                path={pathName}
+                render={(props) => (
+                  <Microfrontend
+                    {...props}
+                    {...propsExtra}
+                  />
+                )}
+              />
+            )
+          }
+          )}
+      </Suspense>
+    );
+  else
+    return (
+      <div style={{ width: "100%", textAlign: "center" }}> PAGE NOT FOUND</div>
+    );
+};
+
+export default Pages;

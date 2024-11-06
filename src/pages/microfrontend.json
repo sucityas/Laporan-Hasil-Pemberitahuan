@@ -1,0 +1,1499 @@
+[
+  {
+    "hostProduction": "https://microfe-namamodul.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofenamamodulcustomsgoid",
+    "path": "/namamodul",
+    "title": "Nama Modul",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-namamodul.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofenamamodulcustomsgoid",
+    "path": "/namamodul/profile",
+    "title": "Nama Modul",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-namamodul.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofenamamodulcustomsgoid",
+    "path": "/namamodul/category",
+    "title": "Nama Modul",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-appsmanager.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeappsmanagercustomsgoid",
+    "path": "/apps-manager",
+    "title": "Apps Manager UI"
+  },
+  {
+    "hostProduction": "https://microfe-analyzingpoint.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofeanalyzingpointcustomsgoid",
+    "path": "/analyzing-point",
+    "title": "Analyzing Point"
+  },
+  {
+    "hostProduction": "https://microfe-appsmanager.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeappsmanagercustomsgoid",
+    "path": "/apps-manager/test-view",
+    "title": "Apps Manager UI",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "misal2.beacukai.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmisal2beacukaigoid",
+    "path": "/namamodul2",
+    "title": "Test2"
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest",
+    "title": "Manifes"
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/browse-data-umum",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/browse-penutupan-semua",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/sarana-pengangkut",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/detil-inward-manifest",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/detail-pembatalan",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/rekon-pecah-penelitian",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/popup-lampiran",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/penutupan-pos",
+    "title": "Manifes"
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/detail-master-nvocc",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/rekon-outward-peb",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/monitoringbarangcontoh",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/detail-bill-of-lading",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/detail-peti-kemas",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/browse-penutupan-semua",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/browse-response",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest",
+    "title": "Manifes"
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/browse-data-umum",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/browse-penutupan-semua",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/sarana-pengangkut",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/detil-inward-manifest",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/detail-pembatalan",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/rekon-pecah-penelitian",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/popup-lampiran",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/penutupan-pos",
+    "title": "Manifes"
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/detail-master-nvocc",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/rekon-outward-peb",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/monitoringbarangcontoh",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/detail-bill-of-lading",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/detail-peti-kemas",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/browse-penutupan-semua",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes-dev.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifesdevcustomsgoid",
+    "path": "/manifest/browse-response",
+    "title": "Manifes",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinanlab.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinanlabcustomsgoid",
+    "path": "/uji-lab",
+    "title": "Uji Laboratorium"
+  },
+  {
+    "hostProduction": "https://microfe-perijinanlab.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinanlabcustomsgoid",
+    "path": "/uji-lab/shpib",
+    "title": "Uji Laboratorium",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinanlab.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinanlabcustomsgoid",
+    "path": "/uji-lab/lhpib",
+    "title": "Uji Laboratorium",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinanlab.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinanlabcustomsgoid",
+    "path": "/uji-lab/pfpd/",
+    "title": "Uji Laboratorium",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/browse/permohonan",
+    "title": "Browse Permohonan"
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/persetujuan-izin",
+    "title": "Aprroval Permohonan",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/detailcms",
+    "title": "Detail Permohonan",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/riwayat",
+    "title": "Status dan Report",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/fitur-lain/monitoring-pengawasan-impor-sementara",
+    "title": "Monitoring Pengawasan Impor Sementara",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/fitur-lain/detail-monitoring-impor-sementara",
+    "title": "Detail Monitoring Impor Sementara",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/fitur-lain/pelanggaran-monitoring-impor-sementara",
+    "title": "Rekam Pelanggaran",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/fitur-lain/monitoring-penyelesaian-impor-sementara",
+    "title": "Monitoring Penyelesaian Impor Sementara",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/fitur-lain/penyelesaian-monitoring-impor-sementara",
+    "title": "Rekam Penyelesaian",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/fitur-lain/detail-penyelesaian-impor-sementara",
+    "title": "Detail Penyelesaian Impor Sementara",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/fitur-lain/pencarian-laporan-izin",
+    "title": "Pencarian Laporan Izin",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/fitur-lain/laporan-pengawasan-pembongkaran",
+    "title": "Laporan Pengawasan Pembongkaran",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/fitur-lain/laporan-penimbunan",
+    "title": "Laporan Penimbunan",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perijinantransaksional.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperijinantransaksionalcustomsgoid",
+    "path": "/transaksional/fitur-lain/laporan-pemeriksaan-segel-bkc",
+    "title": "Laporan Pemeriksaan Segel BKC",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fiturlain.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofefiturlaincustomsgoid",
+    "path": "/fitur-lain-transaksional",
+    "title": "Fitur Lain Transaksional"
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/beranda",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bcp/btd",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bcp/bdn",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bcp/bmn",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/btd/manual",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bdn/manual",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bmn/manual",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/btd/pindah-tpp",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bdn/pindah-tpp",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bmn/pindah-tpp",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/btd/penetapan",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bdn/penetapan",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bmn/penetapan",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/btd/pencacahan",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bdn/pencacahan",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bmn/pencacahan",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/btd/tindak-lanjut",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/tindak-lanjut/pemilik",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bdn/tindak-lanjut",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/bmn/tindak-lanjut",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-manifes.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofemanifescustomsgoid",
+    "path": "/manifest/btd-bdn-bmn/referensi-tpp",
+    "title": "BTD BDN BMN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perbaikan.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperbaikancustomsgoid",
+    "path": "/perbaikan",
+    "title": "Ceisa 4.0 | Perbaikan"
+  },
+  {
+    "hostProduction": "https://microfe-perbaikan.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperbaikancustomsgoid",
+    "path": "/perbaikan/dashboard-test",
+    "title": "Ceisa 4.0 | Dashboard Perbaikan",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perbaikan.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperbaikancustomsgoid",
+    "path": "/perbaikan/perekaman-test",
+    "title": "Ceisa 4.0 | Perekaman Perbaikan",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perbaikan.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperbaikancustomsgoid",
+    "path": "/perbaikan/persetujuan-test",
+    "title": "Ceisa 4.0 | Persetujuan Perbaikan",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-perbaikan.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofeperbaikancustomsgoid",
+    "path": "/perbaikan/browse",
+    "title": "Ceisa 4.0 | Browse Dokumen Perbaikan",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-gate.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofegatecustomsgoid",
+    "path": "/gate-micro",
+    "title": "Ceisa 4.0 | Gate"
+  },
+  {
+    "hostProduction": "https://microfe-gate.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofegatecustomsgoid",
+    "path": "/gate-micro/dashboard-gate",
+    "title": "Ceisa 4.0 | Dashboard Gate",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-gate.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofegatecustomsgoid",
+    "path": "/gate-micro/gate-in",
+    "title": "Ceisa 4.0 | Gate In",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-gate.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofegatecustomsgoid",
+    "path": "/gate-micro/gate-out",
+    "title": "Ceisa 4.0 | Gate Out",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-gate.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofegatecustomsgoid",
+    "path": "/gate-micro/stuffing",
+    "title": "Ceisa 4.0 | Stuffing",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-gate.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofegatecustomsgoid",
+    "path": "/gate-micro/pembongkaran",
+    "title": "Ceisa 4.0 | Pembongkaran",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-gate.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofegatecustomsgoid",
+    "path": "/gate-micro/areatransit",
+    "title": "Ceisa 4.0 | Area Transit",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-gate.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofegatecustomsgoid",
+    "path": "/gate-micro/pemasukan-parsial",
+    "title": "Ceisa 4.0 | Pemasukan Parsial",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-gate.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofegatecustomsgoid",
+    "path": "/gate-micro/pengeluaran-parsial",
+    "title": "Ceisa 4.0 | Pengeluaran Parsial",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman",
+    "title": "Ceisa 4.0 | Barang Kiriman"
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/penelitian-pibk",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/penelitian-cn",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/browse-hasil-keputusan",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/scan-xray",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/rekam-lhp",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/penyelesaian-npbl",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/pengajuan-ruleset",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/persetujuan-atasan",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/simulasi-ruleset",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-transaksionaltpb.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofetransaksionaltpbcustomsgoid",
+    "path": "/perijinan",
+    "title": "Ceisa 4.0 | TPB"
+  },
+  {
+    "hostProduction": "https://microfe-transaksionaltpb.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofetransaksionaltpbcustomsgoid",
+    "path": "/perijinan/TransaksionalTPB",
+    "title": "Ceisa 4.0 | TPB",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-transaksionaltpb.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofetransaksionaltpbcustomsgoid",
+    "path": "/perijinan/PerpanjanganInhouse",
+    "title": "Ceisa 4.0 | TPB",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-transaksionaltpb.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofetransaksionaltpbcustomsgoid",
+    "path": "/perijinan/PembatalanInhouse",
+    "title": "Ceisa 4.0 | TPB",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-transaksionaltpb.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofetransaksionaltpbcustomsgoid",
+    "path": "/perijinan/PerubahanInhouse",
+    "title": "Ceisa 4.0 | TPB",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-transaksionaltpb.customs.go.id",
+    "host": "http://localhost:4000",
+    "modulSlug": "httpsmicrofetransaksionaltpbcustomsgoid",
+    "path": "/perijinan/BATransTPB",
+    "title": "Ceisa 4.0 | TPB",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/browse-permohonan",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/browse-penelitian",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/browse-keputusan",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/browse-penomoran",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/search",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/daashboard",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/penelitian/:idKeputusan",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/permohonan/view/:nomorAju",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/petugas",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/penomoran/:nomorAju/:seri",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/penandatanganan",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/penandatanganan/:nomorAju/:seri",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/distribusi",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-fasilitas.customs.go.id",
+    "host": "http://localhost:4002",
+    "modulSlug": "httpsmicrofefasilitascustomsgoid",
+    "path": "/fasilitas/distribusi/:nomorAju/:seri",
+    "title": "Ceisa 4.0 | Fasilitas",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/bclkt/pemeriksaan-kabid",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/bclkt/pemeriksaan-analis",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/bclkt/pemeriksaan-kasi",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/lhpre/lhpre-pemeriksaan-analis",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/lhpre/lhpre-pemeriksaan-kasi",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/monitoring/monitoring-bclkt",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/monitoring/monitoring-bb",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/browse/barang-manual",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/browse/browse-skep",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/browse/browse-perpanjangan",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "/browse/download-laporann",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "dashboard-kite",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kite.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofekitecustomsgoid",
+    "path": "dashboard-lde",
+    "title": "KITE",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/petugas",
+    "title": "CEISA 4.0 | WebChat Setting Petugas",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/jadwal",
+    "title": "CEISA 4.0 | WebChat Setting Jadwal",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/sla",
+    "title": "CEISA 4.0 | WebChat Setting SLA",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/bot/kelompokJawaban",
+    "title": "CEISA 4.0 | WebChat Setting Bot",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/bot/jawaban",
+    "title": "CEISA 4.0 | WebChat Setting Bot",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/percakapan",
+    "title": "CEISA 4.0 | WebChat Setting Percakapan",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/salam",
+    "title": "CEISA 4.0 | WebChat Setting Salam Pembuka",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/sensor",
+    "title": "CEISA 4.0 | WebChat Setting Sensor",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/faq",
+    "title": "CEISA 4.0 | WebChat Setting FAQ",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/kantor/daftar",
+    "title": "CEISA 4.0 | WebChat Setting Kantor",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/kantor/aktivasi",
+    "title": "CEISA 4.0 | WebChat Setting Kantor",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/penilaian",
+    "title": "CEISA 4.0 | WebChat Setting Form Penilaian",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/penilaian/coaching",
+    "title": "CEISA 4.0 | WebChat Setting Kategori Coaching",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/penilaian/parameter",
+    "title": "CEISA 4.0 | WebChat Setting Parameter",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/media",
+    "title": "CEISA 4.0 | WebChat Setting Media",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/pengaturan/email",
+    "title": "CEISA 4.0 | WebChat Setting Email",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/eskalasi/eskalasi",
+    "title": "CEISA 4.0 | WebChat Eskalasi",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/eskalasi/email",
+    "title": "CEISA 4.0 | WebChat Email Balasan",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/chat/redistribusi",
+    "title": "CEISA 4.0 | WebChat Redistribusi Chat",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/chat/agent",
+    "title": "CEISA 4.0 | WebChat Chat Agent",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/chat/teamLeader",
+    "title": "CEISA 4.0 | WebChat Chat Team Leader",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/penilaian",
+    "title": "CEISA 4.0 | WebChat Penilaian",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/monitoring/agent",
+    "title": "CEISA 4.0 | WebChat Monitoring Agent",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/monitoring/agentTerjadwal",
+    "title": "CEISA 4.0 | WebChat Monitoring Agent Terjadwal",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/monitoring/penilaian",
+    "title": "CEISA 4.0 | WebChat Monitoring Penilaian",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-webchat.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofewebchatcustomsgoid",
+    "path": "/monitoring/tiket",
+    "title": "CEISA 4.0 | WebChat Monitoring Tiket",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/simulasi-ruleset",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofeper17customsgoid",
+    "path": "/per-17",
+    "title": "Ceisa 4.0 | PER - 17"
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofeper17customsgoid",
+    "path": "/per-17/test",
+    "title": "Ceisa 4.0 | PER - 17",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/intelijen-browse",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-barangkiriman.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofebarangkirimancustomsgoid",
+    "path": "/barangkiriman/intelijen-browse",
+    "title": "Ceisa 4.0 | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-casemanagement.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecasemanagementcustomsgoid",
+    "path": "/cm/intelijen/dashboard",
+    "title": "Ceisa 4.0 | Case Management",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-casemanagement.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecasemanagementcustomsgoid",
+    "path": "/cm/intelijen/browse",
+    "title": "Ceisa 4.0 | Case Management",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-citac.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecitaccustomsgoid",
+    "path": "/citac/dashboard",
+    "title": "CEISA 4.0 | CITAC Dashboard",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-citac.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecitaccustomsgoid",
+    "path": "/citac/data-transaksional-pabean",
+    "title": "CEISA 4.0 | CITAC Data Transaksional Pabean",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-citac.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecitaccustomsgoid",
+    "path": "/citac/data-transaksional-cukai",
+    "title": "CEISA 4.0 | CITAC Data Transaksional Cukai",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-citac.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecitaccustomsgoid",
+    "path": "/citac/data-transaksional-tpb",
+    "title": "CEISA 4.0 | CITAC Data Transaksional TPB",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-citac.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecitaccustomsgoid",
+    "path": "/citac/data-management",
+    "title": "CEISA 4.0 | CITAC Data Management",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-citac.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecitaccustomsgoid",
+    "path": "/citac/alert-dan-targetting",
+    "title": "CEISA 4.0 | CITAC Alert dan Targetting",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-citac.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecitaccustomsgoid",
+    "path": "/citac/user-management",
+    "title": "CEISA 4.0 | CITAC User Management",
+    "isStaticMicroFe": true
+  },
+  {
+    "hostProduction": "https://microfe-cntc.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecntccustomsgoid",
+    "path": "/humint/personal-info",
+    "title": "CNTC | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-cntc.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecntccustomsgoid",
+    "path": "/humint/kendaraan-darat",
+    "title": "CNTC | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-cntc.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecntccustomsgoid",
+    "path": "/humint/barang-bawaan",
+    "title": "CNTC | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-cntc.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecntccustomsgoid",
+    "path": "/humint/kendaraan-laut",
+    "title": "CNTC | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-cntc.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofecntccustomsgoid",
+    "path": "/humint/kendaraan-udara",
+    "title": "CNTC | Barang Kiriman",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kln.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofeklncustomsgoid",
+    "path": "kln/transaksi-pabean",
+    "title": "Ceisa 4.0 | KLN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kln.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofeklncustomsgoid",
+    "path": "/kln/red-flag",
+    "title": "Ceisa 4.0 | KLN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kln.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofeklncustomsgoid",
+    "path": "/kln/social-media",
+    "title": "Ceisa 4.0 | KLN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kln.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofeklncustomsgoid",
+    "path": "/kln/spiderweb",
+    "title": "Ceisa 4.0 | KLN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kln.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofeklncustomsgoid",
+    "path": "/kln/dashboard-tbml",
+    "title": "Ceisa 4.0 | KLN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-kln.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofeklncustomsgoid",
+    "path": "/kln/dashboard-terrorisme",
+    "title": "Ceisa 4.0 | KLN",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-dbnarkotika.customs.go.id",
+    "host": "http://localhost:4001",
+    "modulSlug": "httpsmicrofedbnarkotikacustomsgoid",
+    "path": "/db-narkotika-internal/browses",
+    "title": "Ceisa 4.0 | DB Narkotik",
+    "isAdditionalPath": true
+  },
+  {
+    "hostProduction": "https://microfe-siaptanding.customs.go.id",
+    "host": "http://localhost:4003",
+    "modulSlug": "httpsmicrofesiaptandingcustomsgoid",
+    "path": "/perbendaharaan/siap-tanding/keberatan/redis",
+    "title": "Siap Tanding",
+    "isAdditionalPath": true
+  }
+]

@@ -1,0 +1,1 @@
+export const SET_KEYCLOAK = 'SET_KEYCLOAK';
